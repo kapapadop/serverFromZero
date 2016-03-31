@@ -1,0 +1,23 @@
+﻿Secure Chat Protocol 
+•
+2 Clients connect to a server 
+•
+Once connected, each 
+client generates their public and private keys locally.  
+•
+The public key sent to the server and is set so when a user clicks their name any 
+messages sent will be encrypted with that public key. 
+•
+The private key remains only in the client program
+
+•
+When message is sent out, the client program downloads the public key and 
+encrypts the intended message and then applies the digital signature which is 
+created with the private key and then sends the encrypted message out. 
+•
+When the packet is received by the specified person, the client program 
+automatically applies the private key on the text and outputs the message so that 
+the user can see it decrypted and then double checks the digital signature with the 
+public key.  
+•
+Once completed with each step we have successfully transmitted a secure message

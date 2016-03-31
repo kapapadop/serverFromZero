@@ -1,0 +1,6 @@
+D:\MEGA2\serverFromZero\serverFromZero\bin\Release\serverFromZero.exe.config
+D:\MEGA2\serverFromZero\serverFromZero\bin\Release\serverFromZero.exe
+D:\MEGA2\serverFromZero\serverFromZero\bin\Release\serverFromZero.pdb
+D:\MEGA2\serverFromZero\serverFromZero\obj\Release\serverFromZero.csprojResolveAssemblyReference.cache
+D:\MEGA2\serverFromZero\serverFromZero\obj\Release\serverFromZero.exe
+D:\MEGA2\serverFromZero\serverFromZero\obj\Release\serverFromZero.pdb

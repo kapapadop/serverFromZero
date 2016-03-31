@@ -1,0 +1,36 @@
+c:\users\admin\documents\visual studio 2013\Projects\serverFromZero\serverFromZero\bin\Debug\serverFromZero.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\serverFromZero\serverFromZero\obj\Debug\serverFromZero.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\serverFromZero\serverFromZero\bin\Debug\serverFromZero.exe
+c:\users\admin\documents\visual studio 2013\Projects\serverFromZero\serverFromZero\bin\Debug\serverFromZero.pdb
+c:\users\admin\documents\visual studio 2013\Projects\serverFromZero\serverFromZero\obj\Debug\serverFromZero.exe
+c:\users\admin\documents\visual studio 2013\Projects\serverFromZero\serverFromZero\obj\Debug\serverFromZero.pdb
+D:\MEGA2\serverFromZero\serverFromZero\bin\Debug\serverFromZero.exe.config
+D:\MEGA2\serverFromZero\serverFromZero\obj\Debug\serverFromZero.exe
+D:\MEGA2\serverFromZero\serverFromZero\obj\Debug\serverFromZero.pdb
+D:\MEGA2\serverFromZero\serverFromZero\bin\Debug\serverFromZero.exe
+D:\MEGA2\serverFromZero\serverFromZero\bin\Debug\serverFromZero.pdb
+D:\MEGA2\serverFromZero\serverFromZero\obj\Debug\serverFromZero.csprojResolveAssemblyReference.cache
+D:\MEGA2\serverFromZero\serverFromZero\obj\Debug\serverFromZero.Form1.resources
+D:\MEGA2\serverFromZero\serverFromZero\obj\Debug\serverFromZero.csproj.GenerateResource.Cache
+D:\MEGA\serverFromZero\serverFromZero\bin\Debug\serverFromZero.exe.config
+D:\MEGA\serverFromZero\serverFromZero\obj\Debug\serverFromZero.exe
+D:\MEGA\serverFromZero\serverFromZero\obj\Debug\serverFromZero.pdb
+D:\MEGA\serverFromZero\serverFromZero\bin\Debug\serverFromZero.exe
+D:\MEGA\serverFromZero\serverFromZero\bin\Debug\serverFromZero.pdb
+D:\MEGA\serverFromZero\serverFromZero\obj\Debug\serverFromZero.csprojResolveAssemblyReference.cache
+D:\MEGA\serverFromZero\serverFromZero\obj\Debug\serverFromZero.Form1.resources
+D:\MEGA\serverFromZero\serverFromZero\obj\Debug\serverFromZero.csproj.GenerateResource.Cache
+D:\MEGA\chat\serverFromZero\serverFromZero\bin\Debug\serverFromZero.exe.config
+D:\MEGA\chat\serverFromZero\serverFromZero\obj\Debug\serverFromZero.exe
+D:\MEGA\chat\serverFromZero\serverFromZero\obj\Debug\serverFromZero.pdb
+D:\MEGA\chat\serverFromZero\serverFromZero\obj\Debug\serverFromZero.csprojResolveAssemblyReference.cache
+D:\MEGA\chat\serverFromZero\serverFromZero\obj\Debug\serverFromZero.Form1.resources
+D:\MEGA\chat\serverFromZero\serverFromZero\obj\Debug\serverFromZero.csproj.GenerateResource.Cache
+D:\MEGA\chat\serverFromZero\serverFromZero\bin\Debug\serverFromZero.exe
+D:\MEGA\chat\serverFromZero\serverFromZero\bin\Debug\serverFromZero.pdb
+D:\MEGA2\chat\serverFromZero\serverFromZero\bin\Debug\serverFromZero.exe.config
+D:\MEGA2\chat\serverFromZero\serverFromZero\obj\Debug\serverFromZero.exe
+D:\MEGA2\chat\serverFromZero\serverFromZero\obj\Debug\serverFromZero.pdb
+D:\MEGA2\chat\serverFromZero\serverFromZero\bin\Debug\serverFromZero.exe
+D:\MEGA2\chat\serverFromZero\serverFromZero\bin\Debug\serverFromZero.pdb
+D:\MEGA2\chat\serverFromZero\serverFromZero\obj\Debug\serverFromZero.csprojResolveAssemblyReference.cache

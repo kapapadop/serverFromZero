@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="(@1 @2 Type=AsymmetricEncryption)" Category="CodeSchema_Class" Bounds="-9543,-9786,159.51,26" CodeSchemaProperty_IsAbstract="True" CodeSchemaProperty_IsFinal="True" CodeSchemaProperty_IsPublic="True" CommonLabel="AsymmetricEncryption" Icon="Microsoft.VisualStudio.Class.Public" Label="AsymmetricEncryption" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///D:/MEGA2/chat/serverFromZero/serverFromZero/AsymmetricEncryption.cs StartLineNumber=5 StartCharacterOffset=4 EndLineNumber=5 EndCharacterOffset=4)" UseManualLocation="True" />
+    <Node Id="(@1 @2 Type=ClientData)" Category="CodeSchema_Class" Bounds="-9336,-9844,96.07,26" CodeSchemaProperty_IsInternal="True" CommonLabel="ClientData" Icon="Microsoft.VisualStudio.Class.Internal" Label="ClientData" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///d:/mega2/chat/serverfromzero/serverfromzero/clientdata.cs StartLineNumber=8 StartCharacterOffset=4 EndLineNumber=8 EndCharacterOffset=4)" UseManualLocation="True" />
+    <Node Id="(@1 @2 Type=CommandLine)" Category="CodeSchema_Class" Bounds="-9781,-9794,117.72,26" CodeSchemaProperty_IsInternal="True" CommonLabel="CommandLine" Icon="Microsoft.VisualStudio.Class.Internal" Label="CommandLine" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///D:/MEGA2/chat/serverFromZero/serverFromZero/CommandLine.cs StartLineNumber=3 StartCharacterOffset=4 EndLineNumber=3 EndCharacterOffset=4)" UseManualLocation="True" />
+    <Node Id="(@1 @2 Type=Form1)" Category="CodeSchema_Class" Bounds="-9290,-9749,74.87,26" CodeSchemaProperty_IsPublic="True" CommonLabel="Form1" Icon="Microsoft.VisualStudio.Class.Public" Label="Form1" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///D:/MEGA2/chat/serverFromZero/serverFromZero/Form1.cs StartLineNumber=11 StartCharacterOffset=4 EndLineNumber=11 EndCharacterOffset=4)" UseManualLocation="True" />
+    <Node Id="(@1 @2 Type=Message)" Category="CodeSchema_Class" Bounds="-9417,-9711,87.69,26" CodeSchemaProperty_IsPublic="True" CommonLabel="Message" Icon="Microsoft.VisualStudio.Class.Public" Label="Message" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///D:/MEGA2/chat/serverFromZero/serverFromZero/Message.cs StartLineNumber=6 StartCharacterOffset=4 EndLineNumber=6 EndCharacterOffset=4)" UseManualLocation="True" />
+    <Node Id="(@1 @2 Type=Program)" Category="CodeSchema_Class" Bounds="-9566,-9903,86.6066666666667,26" CodeSchemaProperty_IsInternal="True" CommonLabel="Program" Icon="Microsoft.VisualStudio.Class.Internal" Label="Program" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///d:/mega2/chat/serverfromzero/serverfromzero/program.cs StartLineNumber=13 StartCharacterOffset=4 EndLineNumber=13 EndCharacterOffset=4)" UseManualLocation="True" />
+    <Node Id="(@1 @2 Type=Server)" Category="CodeSchema_Class" Bounds="-9541,-9688,74.02,26" CodeSchemaProperty_IsInternal="True" CommonLabel="Server" Icon="Microsoft.VisualStudio.Class.Internal" Label="Server" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///D:/MEGA2/chat/serverFromZero/serverFromZero/Server.cs StartLineNumber=13 StartCharacterOffset=4 EndLineNumber=13 EndCharacterOffset=4)" UseManualLocation="True" />
+  </Nodes>
+  <Links />
+  <Categories>
+    <Category Id="CodeSchema_Class" Label="Class" BasedOn="CodeSchema_Type" CanBeDataDriven="True" DefaultAction="Node:Both:CodeSchema_Member" Icon="CodeSchema_Class" NavigationActionLabel="Classes" />
+    <Category Id="CodeSchema_Type" Label="Type" CanBeDataDriven="True" DefaultAction="Node:Both:CodeSchema_Member" Icon="CodeSchema_Class" NavigationActionLabel="Types" />
+  </Categories>
+  <Properties>
+    <Property Id="Bounds" DataType="System.Windows.Rect" />
+    <Property Id="CanBeDataDriven" Label="CanBeDataDriven" Description="CanBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsAbstract" Label="Is Abstract" Description="Flag to indicate member is 'Abstract' does not provide a full implementation" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsFinal" Label="Is Final" Description="Flag to indicate the member is 'Final' and cannot be derived from" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsInternal" Label="Is Internal" Description="Flag to indicate the method is 'Internal'" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsPublic" Label="Is Public" Description="Flag to indicate the scope is Public" DataType="System.Boolean" />
+    <Property Id="CommonLabel" DataType="System.String" />
+    <Property Id="DefaultAction" Label="DefaultAction" Description="DefaultAction" DataType="System.String" />
+    <Property Id="Icon" Label="Icon" Description="Icon" DataType="System.String" />
+    <Property Id="Label" Label="Label" Description="Displayable label of an Annotatable object" DataType="System.String" />
+    <Property Id="Language" Label="Language" Description="Language" DataType="System.String" />
+    <Property Id="NavigationActionLabel" Label="NavigationActionLabel" Description="NavigationActionLabel" DataType="System.String" />
+    <Property Id="SourceLocation" Label="Start Line Number" DataType="Microsoft.VisualStudio.GraphModel.CodeSchema.SourceLocation" />
+    <Property Id="UseManualLocation" DataType="System.Boolean" />
+  </Properties>
+  <QualifiedNames>
+    <Name Id="Assembly" Label="Assembly" ValueType="Uri" />
+    <Name Id="Namespace" Label="Namespace" ValueType="System.String" />
+    <Name Id="Type" Label="Type" ValueType="System.Object" />
+  </QualifiedNames>
+  <IdentifierAliases>
+    <Alias n="1" Uri="Assembly=$(99673d8c-54c4-45df-a5f5-c237ffc1183f.OutputPathUri)" />
+    <Alias n="2" Id="Namespace=serverFromZero" />
+  </IdentifierAliases>
+  <Paths>
+    <Path Id="99673d8c-54c4-45df-a5f5-c237ffc1183f.OutputPathUri" Value="file:///D:/MEGA2/chat/serverFromZero/serverFromZero/bin/Debug/serverFromZero.exe" />
+  </Paths>
+</DirectedGraph>
